@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://res.cloudinary.com/ddmmelgng/image/upload/v1660920389/Resume-page-001_1_bffroz.jpg",
+    "https://res.cloudinary.com/ddmmelgng/image/upload/v1688577073/Resume_Updated_page-0001_krfcav.jpg",
   
   githubProfile: "https://github.com/SasiPreetham17",
 };
