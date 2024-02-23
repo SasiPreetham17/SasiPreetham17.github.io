@@ -361,7 +361,7 @@ const experience = {
           duration: "May 2022 - Present",
           location: "Hyderabad, Telangana",
           description:
-            "Working closely with cross-functional teams, including designers,backend developers, and testers, to gather requirements and ensure smooth project execution.Creating user-friendly and visually appealinginterfaces using HTML, CSS, and JavaScript frameworks like ReactJS.Developing a robust and intuitive form submission system that allowed users to provide necessary safety information and upload images of their personalprotective equipment (PPE) kits.Implementing AI algorithms to detect the confidence and safetylevels of PPE equipment based on the uploaded images.",
+            "Working closely with cross-functional teams, including designers,backend developers, and testers, to gather requirements and ensure smooth project execution. Creating user-friendly and visually appealing interfaces using HTML, CSS, and JavaScript and frameworks like ReactJS. Developing a robust and intuitive form submission system that allowed users to provide necessary safety information and upload images of their Personal Protective Equipment (PPE) kits.",
           color: "#0879bf",
         },
         {
