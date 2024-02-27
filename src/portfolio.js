@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://res.cloudinary.com/ddmmelgng/image/upload/v1688577073/Resume_Updated_page-0001_krfcav.jpg",
+    "https://res.cloudinary.com/ddmmelgng/image/upload/v1709044326/qawcqx5zfvrsu9ii9vxx.jpg",
   
   githubProfile: "https://github.com/SasiPreetham17",
 };
@@ -123,20 +123,20 @@ const skills = {
       title: "Front-End Developer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive websites using React JS",
+        "⚡ Building responsive websites using React JS, JavaScript",
         "⚡ Creating application backend in Node JS",
         
       ],
       softwareSkills: [
         {
-          skillName: "HTML-5",
+          skillName: "HTML",
           fontAwesomeClassname: "simple-icons:html5",
           style: {
             color: "#E34F26",
           },
         },
         {
-          skillName: "CSS-3",
+          skillName: "CSS",
           fontAwesomeClassname: "fa-css3",
           style: {
             color: "#1572B6",
@@ -159,20 +159,26 @@ const skills = {
           },
         },
         {
-          skillName: "Node JS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
           style: {
             color: "#CB3837",
           },
         },
-        
+        {
+          skillName: "Redux",
+          fontAwesomeClassname: "simple-icons:redux",
+          style: {
+            color: "#764abc",
+          },
+        },
+        {
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: {
+            color: "#764abc",
+          },
+        },
         
       ],
     },
@@ -358,10 +364,10 @@ const experience = {
           company: "Ericsson",
           company_url: "https://www.ericsson.com",
           logo_path: "legato_logo.png",
-          duration: "May 2022 - Present",
+          duration: "Nov 2021 - Present",
           location: "Hyderabad, Telangana",
           description:
-            "Working closely with cross-functional teams, including designers,backend developers, and testers, to gather requirements and ensure smooth project execution. Creating user-friendly and visually appealing interfaces using HTML, CSS, and JavaScript and frameworks like ReactJS. Developing a robust and intuitive form submission system that allowed users to provide necessary safety information and upload images of their Personal Protective Equipment (PPE) kits.",
+            "Working closely with cross-functional teams, including designers,backend developers, and testers, to gather requirements and ensure smooth project execution. Creating user-friendly and visually appealing interfaces using HTML, CSS, and JavaScript and frameworks like React JS. Developing a robust and intuitive form submission system that allowed users to provide necessary safety information and upload images of their Personal Protective Equipment (PPE) kits.",
           color: "#0879bf",
         },
         {
@@ -369,7 +375,7 @@ const experience = {
           company: "Westpac Banking",
           company_url: "https://www.westpac.com.au",
           logo_path: "muffito_logo.png",
-          duration: "April 2021 - May 2022",
+          duration: "April 2021 - Nov 2021",
           location: "Pune, Maharashtra",
           description:
             "Developed an UI for Banking to make the customers login and logout easily whenever they want toperform any operations.We created an form with input fields for creation of account and created an API to fetch the dataand check if user is present already in the database. We have also restricted age for creation of account and to access other features in banking.Developed other security features for authentication and toggle switches.",
@@ -515,7 +521,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "D.No-2-44-42,Bhaskar Nagar, Kakinada, Andhra Pradesh - 533003",
+      "D.No-2-44-41/1,Bhaskar Nagar, Kakinada, Andhra Pradesh - 533003",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/XE52qTaDggdgwPxD8",
   },
